@@ -1,0 +1,4 @@
+::1 - - [26/Sep/2019:20:14:14 +0000] "GET /notes HTTP/1.1" 200 2 "-" "PostmanRuntime/7.17.1"
+::1 - - [26/Sep/2019:20:36:39 +0000] "GET /notes HTTP/1.1" 200 2 "-" "PostmanRuntime/7.17.1"
+::1 - - [26/Sep/2019:20:39:06 +0000] "GET /notes HTTP/1.1" 200 2 "-" "PostmanRuntime/7.17.1"
+::1 - - [26/Sep/2019:20:40:46 +0000] "POST /notes HTTP/1.1" 201 121 "-" "PostmanRuntime/7.17.1"

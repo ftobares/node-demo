@@ -1,0 +1,31 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Probando cosas en node",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node ./web/server.js",
+    "test": "node ./web/server.js",
+    "build": "node ./web/server.js"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "con",
+    "MongoDb",
+    "en",
+    "Firebase"
+  ],
+  "author": "ftobares",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "mongoose": "^5.7.1",
+    "morgan": "^1.9.1",
+    "rotating-file-stream": "^1.4.3",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.1.0"
+  }
+}
